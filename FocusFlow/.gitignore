@@ -1,1 +1,15 @@
+# --- Archivos de compilación y salida ---
+build/
+dist/
+nbdist/
+nbbuild/
+bin/
+
+# --- Configuración específica de NetBeans (opcional) ---
+# Se suele ignorar private/ porque contiene rutas locales de tu PC
 nbproject/private/
+
+# --- Archivos de sistema y logs ---
+*.log
+*.swp
+.DS_Store
